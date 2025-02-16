@@ -1,8 +1,8 @@
-# Interactive Valentine's Envelope Card 💌
+# Interactive Valentine's Envelope Card 
 
 A charming interactive Valentine's card featuring an animated envelope that reveals a message when opened, complete with a custom heart-shaped cursor. Built with pure HTML, CSS, and JavaScript.
 
-## ✨ Features
+## Features
 
 - Animated envelope that opens on hover to reveal a pop-up message
 - Custom heart-shaped cursor that follows mouse/touch movement
@@ -13,7 +13,7 @@ A charming interactive Valentine's card featuring an animated envelope that reve
   - Heart decoration inside the letter
 - Touch device support for mobile interactions
 
-## 🎨 Design Details
+## Design Details
 
 The card uses a carefully crafted color palette defined through CSS variables:
 ```css
@@ -25,17 +25,17 @@ The card uses a carefully crafted color palette defined through CSS variables:
 --heart: #f40b4a
 ```
 
-## 🚀 Demo
+## Demo
 
 [View Live Demo](https://marwanhegazy-10.github.io/valentinesDayCard/) - Add your deployed card link here
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5 for structure
 - CSS3 for styling and animations
 - JavaScript for interactive features and touch support
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -49,7 +49,7 @@ cd valentinesDayCard
 
 3. Open `index.html` in your preferred browser.
 
-## 💝 Usage
+## Usage
 
 ### Interaction Guide
 - Hover over the envelope to trigger the opening animation
@@ -80,7 +80,7 @@ cd valentinesDayCard
    - Adjust heart cursor size by modifying `.heart-cursor` width and height
    - Change cursor color using the `--heart` CSS variable
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google Developer Student Club at UTD
 
