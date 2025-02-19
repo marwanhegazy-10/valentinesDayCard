@@ -84,6 +84,6 @@ cd valentinesDayCard
 
 - Google Developer Student Club at UTD
 
-## 🔗 Project Link
+## Project Link
 
 [https://github.com/marwanhegazy-10/valentinesDayCard](https://github.com/marwanhegazy-10/valentinesDayCard)
