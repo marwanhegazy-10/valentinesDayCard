@@ -27,7 +27,7 @@ The card uses a carefully crafted color palette defined through CSS variables:
 
 ## Demo
 
-[View Live Demo](https://marwanhegazy-10.github.io/valentinesDayCard/) - Add your deployed card link here
+[View Live Demo](https://marwanhegazy-10.github.io/valentinesDayCard/)
 
 ## Technologies Used
 
@@ -83,7 +83,3 @@ cd valentinesDayCard
 ## Acknowledgments
 
 - Google Developer Student Club at UTD
-
-## Project Link
-
-[https://github.com/marwanhegazy-10/valentinesDayCard](https://github.com/marwanhegazy-10/valentinesDayCard)
